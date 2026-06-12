@@ -1,0 +1,10 @@
+﻿{
+  "app_id": "com.floatlight.archive",
+  "version_name": "0.1.1",
+  "version_code": 2,
+  "update_level": "recommended",
+  "release_date": "2026-06-12",
+  "release_notes": "修复梦境清晰度调整与首页今日内心天象同步，新增 GitHub 正式公网检查更新、APK 下载、SHA-256 校验与系统安装流程。",
+  "apk_url": "https://raw.githubusercontent.com/AOSHANdada/-/main/floatlight-archive-0.1.1-debug.apk",
+  "sha256": "e6be3071f33ddf7bb9fe5e18ebd2a0a7be02edbab93cff608f5dd0deac6c4545"
+}
