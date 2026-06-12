@@ -6,5 +6,5 @@
   "release_date": "2026-06-12",
   "release_notes": "0.2.0 正式版：根据新版 PRD/UI 整改底部导航为今日、存档、天象、梦境、我的；新增今日首页，集中展示今日天象、快速保存、统计入口和最近保存；统一天象/梦境命名，减少天气和博物馆入口歧义。",
   "apk_url": "https://raw.githubusercontent.com/AOSHANdada/-/main/floatlight-archive-0.2.0-release.apk",
-  "sha256": "23c4c8dbaded39dbe4d67e70d3b05f55d3eddccbdd42b3ba14367539951360c0"
+  "sha256": "6e7a4eaf21b8620c0c2617fd8eb7cee0c5f55154548e477625be27f637da275a"
 }
