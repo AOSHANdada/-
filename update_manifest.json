@@ -1,10 +1,10 @@
 ﻿{
   "app_id": "com.floatlight.archive",
-  "version_name": "0.1.1",
-  "version_code": 2,
+  "version_name": "0.2.0",
+  "version_code": 3,
   "update_level": "recommended",
   "release_date": "2026-06-12",
-  "release_notes": "正式版发布：修复梦境清晰度调整与首页今日内心天象同步，支持 GitHub 公网检查更新、APK 下载、SHA-256 校验与系统安装流程。",
-  "apk_url": "https://raw.githubusercontent.com/AOSHANdada/-/main/floatlight-archive-0.1.1-release.apk",
-  "sha256": "d1256952785510e6e1d0a16e365236c0b15728248e170cbe8c84357466608f00"
+  "release_notes": "0.2.0 正式版：根据新版 PRD/UI 整改底部导航为今日、存档、天象、梦境、我的；新增今日首页，集中展示今日天象、快速保存、统计入口和最近保存；统一天象/梦境命名，减少天气和博物馆入口歧义。",
+  "apk_url": "https://raw.githubusercontent.com/AOSHANdada/-/main/floatlight-archive-0.2.0-release.apk",
+  "sha256": "23c4c8dbaded39dbe4d67e70d3b05f55d3eddccbdd42b3ba14367539951360c0"
 }
